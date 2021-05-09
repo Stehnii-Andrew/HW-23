@@ -1,0 +1,21 @@
+.main {
+  display: grid;
+  justify-content: center;
+  padding-top: 30px;
+  color: black;
+  border: 5px dotted white;
+
+    ul {
+      padding: 10px;
+
+      li {
+        &:hover {
+          cursor: pointer;
+        }
+      }
+    }
+}
+
+.hide {
+  display: none;
+}

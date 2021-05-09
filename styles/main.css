@@ -1,0 +1,17 @@
+.main {
+  display: grid;
+  justify-content: center;
+  padding-top: 30px;
+  color: black;
+  border: 5px dotted white;
+}
+.main ul {
+  padding: 10px;
+}
+.main ul li:hover {
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}/*# sourceMappingURL=main.css.map */
